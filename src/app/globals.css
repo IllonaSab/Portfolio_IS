@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #A3483E;
+  --color-primary-hover: #5C3636;
+  --color-surface-soft: #E3B89B;
+  --color-surface-card: #FFFFFF;
+  --color-surface-badge: rgba(227, 184, 155, 0.35);
+  --color-text-light: #FFFFFF;
+  --color-text-dark: #5C3636;
+  --color-text-muted: #7A524C;
+
+  /* Dimensions et espacements personnalisés */
+  --width-container: 1188px;
+  --spacing-nav-x: 6px;
+  --spacing-nav-y: 14px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #FDFBF9;
+  color: var(--color-text-dark);
+}
