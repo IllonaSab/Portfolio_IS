@@ -7,7 +7,7 @@ export function Hero() {
         {/* Badge Disponibilité */}
         <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[#E3B89B]/20 text-[#5C3636] text-xs font-medium mb-6">
           <span className="w-2 h-2 rounded-full bg-[#A3483E]" />
-          <span>Disponible début octobre pour de nouveaux projets</span>
+          <span> À la recherche d’un CDI, disponible immédiatement pour de nouveaux projets</span>
         </div>
 
         {/* Titre Principal */}

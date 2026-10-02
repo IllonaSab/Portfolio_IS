@@ -9,31 +9,23 @@ const techStack: TechCategory[] = [
     skills: [
       "React",
       "React Native",
-      "TypeScript",
-      "Tailwind CSS",
+      "Angular",
       "HTML/CSS",
-      "Next.js",
-      "Figma",
       "Sass",
-    ],
-  },
-  {
-    title: "Back-end et Données",
-    skills: [
+      "Figma",
       "Node.js",
       "Express.js",
       "PostgreSQL",
-      "Prisma",
       "API REST",
+      "GraphQL",
+      "Strapi",
+      "OAuth",
+      "Stripe",
+      "API Mistral",
+      "GitHub",
+      "Vercel",
+      "Render",
     ],
-  },
-  {
-    title: "DevOps et Outils",
-    skills: ["GitHub", "Vercel", "Render", "Postman"],
-  },
-  {
-    title: "Intégrations",
-    skills: ["API Mistral", "OAuth", "Stripe"],
   },
 ];
 
