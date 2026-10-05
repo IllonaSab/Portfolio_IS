@@ -33,7 +33,7 @@ export function Hero() {
           </a>
 
           <a
-            href="/cv.pdf"
+            href="/CV_SABOUNDJIAN.pdf"
             download="CV_Illona_Saboundjian.pdf"
             className="px-6 py-3 rounded-lg border border-[#A3483E]/50 text-[#A3483E] text-sm font-semibold hover:bg-[#E3B89B]/10 transition-colors"
             >
