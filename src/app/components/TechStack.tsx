@@ -9,6 +9,8 @@ const techStack: TechCategory[] = [
     skills: [
       "React",
       "React Native",
+      "Next.js",
+      "TypeScript",
       "Angular",
       "HTML/CSS",
       "Sass",
@@ -16,6 +18,7 @@ const techStack: TechCategory[] = [
       "Node.js",
       "Express.js",
       "PostgreSQL",
+      "Prisma",
       "API REST",
       "GraphQL",
       "Strapi",
