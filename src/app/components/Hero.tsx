@@ -34,7 +34,7 @@ export function Hero() {
 
           <a
             href="/CV_SABOUNDJIAN.pdf"
-            download="CV_Illona_Saboundjian.pdf"
+            download="CV_SABOUNDJIAN_Illona.pdf"
             className="px-6 py-3 rounded-lg border border-[#A3483E]/50 text-[#A3483E] text-sm font-semibold hover:bg-[#E3B89B]/10 transition-colors"
             >
             Télécharger mon CV
