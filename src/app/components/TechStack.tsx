@@ -7,27 +7,31 @@ const techStack: TechCategory[] = [
   {
     title: "Front-end",
     skills: [
-      "React",
-      "React Native",
-      "Next.js",
-      "TypeScript",
-      "Angular",
-      "HTML/CSS",
-      "Sass",
-      "Figma",
-      "Node.js",
-      "Express.js",
-      "PostgreSQL",
-      "Prisma",
-      "API REST",
-      "GraphQL",
-      "Strapi",
-      "OAuth",
-      "Stripe",
-      "API Mistral",
-      "GitHub",
-      "Vercel",
-      "Render",
+      "JavaScript, React.js, HTML5, CSS3, Tailwind CSS"
+    ],
+  },
+  {
+    title: "Back-end & Data",
+    skills: [
+      "Node.js, Express.js, PostgreSQL, JSON"
+    ],
+  },
+  {
+    title: "IA & Intégrations",
+    skills: [
+      "Microsoft Copilot Studio, Mistral AI API, Stripe, OAuth"
+    ],
+  },
+   {
+    title: "Outils & Déploiement",
+    skills: [
+      "GitHub, GitHub Actions, Vercel, Figma"
+    ],
+  },
+      {
+    title: "Technologies explorées en projet",
+    skills: [
+      "React Native, Angular, TypeScript, GraphQL, Prisma ORM, Supabase, Docker, Azure, Next.js"
     ],
   },
 ];
