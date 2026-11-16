@@ -39,7 +39,7 @@ export const projectsData: Project[] = [
     description: "Application de gestion de tickets",
     image: "/ticketingtool.svg",
     tags: ["Next.js", "React", "TypeScript", "Strapi", "SQLite", "JWT"],
-    link: "https://github.com/IllonaSab/Portfolio_IS.git",
+    link: "https://github.com/IllonaSab/TicketingTool.git",
   },
   {
     id: "streaming",
