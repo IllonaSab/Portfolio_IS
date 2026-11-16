@@ -12,7 +12,7 @@ export function Hero() {
 
         {/* Titre Principal */}
         <h1 className="text-4xl sm:text-5xl lg:text-[56px] font-bold text-[#2A1810] leading-[1.15] tracking-tight">
-          Bonjour, je suis Illona SABOUNDJIAN, DÉVELOPPEUSE FULL STACK{" "}
+          Illona SABOUNDJIAN, DÉVELOPPEUSE FULL STACK{" "}
           <span className="text-[#A3483E]">REACT.JS • NODE.JS • POSTGRESQL</span>.
         </h1>
 
