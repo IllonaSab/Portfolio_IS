@@ -7,20 +7,18 @@ export function Hero() {
         {/* Badge Disponibilité */}
         <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[#E3B89B]/20 text-[#5C3636] text-xs font-medium mb-6">
           <span className="w-2 h-2 rounded-full bg-[#A3483E]" />
-          <span> À la recherche d’un CDI, disponible immédiatement pour de nouveaux projets</span>
+          <span>  Disponible immédiatement pour un CDI, CDD ou une mission en Île-de-France ou mobile. </span>
         </div>
 
         {/* Titre Principal */}
         <h1 className="text-4xl sm:text-5xl lg:text-[56px] font-bold text-[#2A1810] leading-[1.15] tracking-tight">
-          Bonjour, je suis Illona SABOUNDJIAN, Développeuse{" "}
-          <span className="text-[#A3483E]">Full Stack/IA</span>.
+          Bonjour, je suis Illona SABOUNDJIAN, DÉVELOPPEUSE FULL STACK{" "}
+          <span className="text-[#A3483E]">REACT.JS • NODE.JS • POSTGRESQL</span>.
         </h1>
 
         {/* Description */}
         <p className="mt-6 text-base sm:text-lg text-[#5C3636]/80 leading-relaxed max-w-[620px]">
-          Je conçois des interfaces engageantes, élégantes et centrées sur les
-          besoins utilisateurs. Passionnée par le design system et l’artisanat
-          visuel.
+         Développeuse Full Stack (React.js, Node.js, PostgreSQL), diplômée d`un Master Expert Développement Full Stack avec 3 ans d`expérience en alternance.
         </p>
 
         {/* Boutons d'action */}
