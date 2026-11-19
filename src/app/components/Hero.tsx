@@ -31,7 +31,7 @@ export function Hero() {
           </a>
 
           <a
-            href="/CV_SABOUNDJIAN.pdf"
+            href="/CV_SABOUNDJIAN_Illona.pdf"
             download="CV_SABOUNDJIAN_Illona.pdf"
             className="px-6 py-3 rounded-lg border border-[#A3483E]/50 text-[#A3483E] text-sm font-semibold hover:bg-[#E3B89B]/10 transition-colors"
             >
@@ -43,7 +43,7 @@ export function Hero() {
       {/* Colonne Droite : Visuel / Logo Hero */}
       <div className="shrink-0 w-full sm:w-[420px] lg:w-[470px] aspect-square rounded-[40px] border border-[#A3483E]/40 bg-[#FAF4EF] p-8 flex items-center justify-center relative shadow-sm">
         <Image
-          src="/logo.svg"
+          src="/Logo.svg"
           alt="Illustration Illona Saboundjian"
           width={340}
           height={340}
