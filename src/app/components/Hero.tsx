@@ -43,7 +43,7 @@ export function Hero() {
       {/* Colonne Droite : Visuel / Logo Hero */}
       <div className="shrink-0 w-full sm:w-[420px] lg:w-[470px] aspect-square rounded-[40px] border border-[#A3483E]/40 bg-[#FAF4EF] p-8 flex items-center justify-center relative shadow-sm">
         <Image
-          src="/Logo.svg"
+          src="/logo.svg"
           alt="Illustration Illona Saboundjian"
           width={340}
           height={340}
